@@ -1,12 +1,12 @@
 ### Hi there 👋, I'm Fernando Bernardi
 
-I'm a IT Support Specialist and a Trainee in Web Development. I love code, speacially Python and Data Science. 
+I'm a IT Support Specialist and a Trainee in Web Development. I love code, specially Python and Data Science. 
 
-When not working i IT, I'm learning and making projects in the field of full stack web development, juggling Python, HTML, JavaScript, and increasingly, React on iOS and Android.
+When not working in IT, I'm learning and making projects in fields life full stack web development, juggling Python, HTML, JavaScript, and increasingly, React on iOS and Android.
 
 I'm willing to become a contributor in FOSS projects and GitHub Classroom projects.
 
-Here are some ideas to get you started:
+**More about me**
 
 - 🔭 I’m currently working on DevOps and Network Automation
 - 🌱 I’m currently learning Full Stack Web and Data Science
