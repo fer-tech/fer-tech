@@ -21,4 +21,4 @@ I'm willing to become a contributor in FOSS projects and GitHub Classroom projec
 
 [My english resume](https://fer-tech.github.io/resume/)
 
-[Currículo em portugês](https://github.com/fer-tech/fer-tech/files/7429862/GENERAL_RESUME_final.pdf)
+[Currículo em portugês(PDF)](https://github.com/fer-tech/fer-tech/files/7430101/GENERAL_RESUME_final.pdf)
