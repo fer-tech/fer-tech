@@ -15,7 +15,7 @@ I'm willing to become a contributor in FOSS projects and GitHub Classroom projec
 - 💬 Ask me about latim syntax
 - 📫 How to reach me: neobernardi@outlook.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I love books and comic books!
+- ⚡ Fun fact: I love books and comics!
 
 ## For more professional details:
 
